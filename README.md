@@ -1,4 +1,4 @@
-# theweeklyspark
-The Weekly Spark's website
+# The Weekly Spark
+Code for The Weekly Spark's website
 
-References: https://github.com/mayur-punjabi/shadow-blog
+Reference: https://github.com/mayur-punjabi/shadow-blog
